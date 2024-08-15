@@ -77,3 +77,6 @@ The Home view serves as the central navigation hub, allowing users to access spe
 
 ## Project Kickoff
 The project kickoff session was essential in clarifying the goals, purpose, and scope of the project, as well as addressing any questions related to the project.
+
+## Project Preview
+[https://github.com/Amankha-n/Business-Insight-360_Power_BI/blob/main/Resources/Linkedin%20video.gif]
